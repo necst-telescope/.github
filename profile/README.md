@@ -8,3 +8,7 @@
   <img style="width: 1em; height: 1em;" src="https://avatars.githubusercontent.com/u/42426184?s=400&u=e670291b950f6565e7e7795f0eb6f56b3fc6a53b&v=4">
   OGAWA ROS
 </a></p>
+
+## For Developers
+
+See the project [wiki](https://github.com/necst-telescope/internal/discussions)
